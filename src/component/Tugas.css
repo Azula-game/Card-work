@@ -1,0 +1,20 @@
+.cum{
+    display: flex;
+    align-items: center;
+    height:100vh;
+}
+.aku {
+    display:flex;
+    background-color: #383A45;
+    width: 700px;
+    height :auto;
+    border-radius: 7px;
+    padding: 10px 15px;
+}
+.lol{
+    padding:0 25px;
+}
+img {
+    width:262px;
+    border-radius: 7px;
+}
