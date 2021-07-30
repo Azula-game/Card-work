@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Card-work/static/css/main.34182e03.chunk.css",
+    "main.js": "/Card-work/static/js/main.92a4bf4f.chunk.js",
+    "main.js.map": "/Card-work/static/js/main.92a4bf4f.chunk.js.map",
+    "runtime-main.js": "/Card-work/static/js/runtime-main.4e4cf386.js",
+    "runtime-main.js.map": "/Card-work/static/js/runtime-main.4e4cf386.js.map",
+    "static/js/2.af23fd71.chunk.js": "/Card-work/static/js/2.af23fd71.chunk.js",
+    "static/js/2.af23fd71.chunk.js.map": "/Card-work/static/js/2.af23fd71.chunk.js.map",
+    "static/js/3.74647049.chunk.js": "/Card-work/static/js/3.74647049.chunk.js",
+    "static/js/3.74647049.chunk.js.map": "/Card-work/static/js/3.74647049.chunk.js.map",
+    "index.html": "/Card-work/index.html",
+    "static/css/main.34182e03.chunk.css.map": "/Card-work/static/css/main.34182e03.chunk.css.map",
+    "static/js/2.af23fd71.chunk.js.LICENSE.txt": "/Card-work/static/js/2.af23fd71.chunk.js.LICENSE.txt",
+    "static/media/ff.b923888e.jpg": "/Card-work/static/media/ff.b923888e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e4cf386.js",
+    "static/js/2.af23fd71.chunk.js",
+    "static/css/main.34182e03.chunk.css",
+    "static/js/main.92a4bf4f.chunk.js"
+  ]
+}
